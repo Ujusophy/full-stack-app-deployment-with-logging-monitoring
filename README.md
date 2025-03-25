@@ -159,3 +159,5 @@ Your hosted application will be evaluated based on the following criteria:
 
 
 Good luck with this Challenge! This is your opportunity to showcase your end-to-end DevOps skills and stand out to potential employers.
+
+Thanks
